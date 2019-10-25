@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Ayagoz Mussabayeva"
 title_separator          : "-"
-logo                     : "/images/my_pic.jpg"
+logo                     : "/images/my_pic.jpg?raw=True"
 name                     : &name "Ayagoz"
 description              : &description "personal description"
 url                      : https://Ayagoz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Ayagoz"
-  avatar           : "my_pic.jpg"
+  avatar           : ""
   bio              : "Your biography for the left-hand sidebar"
   location         : "Moscow"
   employer         :
@@ -207,7 +207,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _education
   - scope:
       path: ""
       type: teaching
@@ -234,14 +234,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+
 
 # Sass/SCSS
 sass:
