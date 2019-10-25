@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Ayagoz Mussabayeva"
 title_separator          : "-"
-logo                     : "/images/my_pic.jpg?raw=True"
+logo                     : "/images/my_pic.jpg"
 name                     : &name "Ayagoz"
 description              : &description "personal description"
 url                      : https://Ayagoz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Ayagoz"
   avatar           : ""
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "I'm 25 y.o. Data scientist, who started with neuroscience and now explore big world of ML/DL"
   location         : "Moscow"
   employer         :
   pubmed           :
