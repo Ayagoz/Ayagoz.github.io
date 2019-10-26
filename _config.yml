@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Ayagoz"
-  avatar           : ""
+  avatar           : "my_pic.jpg"
   bio              : "I'm 25 y.o. Data scientist, who started with neuroscience and now explore big world of ML/DL"
   location         : "Moscow"
   employer         :
