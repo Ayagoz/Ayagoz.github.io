@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hello, world!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-
-For more info
+About me
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+I'm a 25 year old Data Scientist. Now I am a Computer Vision Engineer 
+at [Constanta](https://const.tech/) and Ph.D. student at IITP RAS. 
+Recently, I have been interested in different CV methods. 
+
+
+About my projects
+----
+* Automatic systems
+* Diffeomorphic Transformer
+* LDDMM-based ML
+ 
+ 
