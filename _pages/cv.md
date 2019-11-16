@@ -11,49 +11,71 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Math, Moscow State University (MSU), 2016
+* M.S. in Computer Science, Higher School of Economics (NRU HSE), 2018
+* Ph.D in Data Science, Institute for Information Transmission Problems (IITP RAS), 2022 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2017: Junior Researcher
+  * IITP RAS, Sector 10.3
+  * Duties included: Research in Neuroscience
+  * Supervisor: Yulia Denisova
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Summer 2018: Research Assistant
+  * IITP RAS, Sector 10.3
+  * Duties included: Research in Neuroscience
+  * Supervisor: Boris Gutman
 
-Publications
+* Summer 2019: Computer Vision Engineer
+  * Constanta
+  * Duties included: Development of Automated CV System
+  * Supervisor: Ruslan Baikulov
+
+Computer Skills
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* Programming
+    * Python
+    * C
+    * bash scripting
+* Libraries
+    * SciPy, NumPy, Sklearn, Pandas
+    * Matplotlib, Seaborn, Plotly
+    * Scimage, OpenCV
+    * Igraph, Networkx 
+    * PyTorch, Tensorflow 
+    * Beautifulsoup, request
+* Tools
+    * Git, Docker, Jupyter, PyCharm 
+    * Qsub, Latex, FFMpeg
+
+Teaching Assistant
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+2017-2018, Calculus II, course by Prof. A. Sobolevski at the Faculty of CS, NRU HSE (aprox. 120 students)
+
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+2019, Mathematical statistics, Department of Radio Engineering and Cybernetics, MIPT
+2019, Probability theory, Department of physics, NRU HSE
+
+Volunteer
+======
+2016-2017, Math teaching in orphanages [Tutor Outreach](https://hum.hse.ru/news/146283933.html)
+
+Programs and Olympiads
+======
+* Participated in winter school of mathematics and physics "Absolute future" at MIPT
+* Winner (I) of HSE Olympiad for students in applied math
+
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Organizing student community events at the [IITP RAS]{http://iitp.ru/ru/about}
+* Organization of non-formal program at Conference [ITaS]{http://itas2019.iitp.ru/} 2017-2019
+
+
+Interests
+======
+* Reading Science Fiction
+* Mountain/water hiking, yoga and volleyball
+* Skateboarding & Snowboarding
