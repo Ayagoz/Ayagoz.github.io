@@ -10,15 +10,18 @@ redirect_from:
 
 About me
 ------
-I'm a 25 year old Data Scientist. Now I am a Computer Vision Engineer 
-at [Constanta](https://const.tech/) and Ph.D. student at IITP RAS. 
-Recently, I have been interested in different CV methods. 
+Hello I'm a 27 year old Computer Vision Scientist and Ph.D. student at IITP RAS. 
 
 
 About my projects
 ----
-* Automatic systems
-* Diffeomorphic Transformer
-* LDDMM-based ML
+
+- Commertial
+    * Automatic systems for sports and e-sports
+    
+
+- Academic
+    * Diffeomorphic Transformer
+    * LDDMM-based ML
  
  
