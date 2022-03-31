@@ -15,7 +15,7 @@ Education
 
 Work experience
 ======
-* Spring 2017: Junior Researcher
+* Spring 2017-2018: Junior Researcher
   * IITP RAS, Sector 10.3
   * Duties included: Research in Neuroscience
   * Supervisor: Yulia Denisova
@@ -25,11 +25,20 @@ Work experience
   * Duties included: Research in Neuroscience
   * Supervisor: Boris Gutman
 
-* Summer 2019: Computer Vision Engineer
+* Summer 2019-2021: Computer Vision Engineer
   * Constanta
   * Duties included: Development of Automated CV System
   * Supervisor: Ruslan Baikulov
 
+* Summer 2021-2021: Senior Deep Learning Engineer
+    * Halbestunde
+    * Duties included: Development an OMR and SMR and managing and leading development
+
+* Winter 2022: Deep Learning Engineer
+    * VK 
+    * Duties included: Development of EPD system 
+    * Supervisor: Denis Klyuhin
+    
 Computer Skills
 ======
 * Programming
@@ -43,22 +52,21 @@ Computer Skills
     * Igraph, Networkx 
     * PyTorch, Tensorflow 
     * Beautifulsoup, request
+    * DVC, Hydra
 * Tools
-    * Git, Docker, Jupyter, PyCharm 
+    * Git, Docker, Jupyter, PyCharm, HDFS 
     * Qsub, Latex, FFMpeg
 
-Teaching Assistant
+Teaching 
 ======
 2017-2018, Calculus II, course by Prof. A. Sobolevski at the Faculty of CS, NRU HSE (aprox. 120 students)
-
-Teaching
-======
 2019, Mathematical statistics, Department of Radio Engineering and Cybernetics, MIPT
 2019, Probability theory, Department of physics, NRU HSE
 
 Volunteer
 ======
 2016-2017, Math teaching in orphanages [Tutor Outreach](https://hum.hse.ru/news/146283933.html)
+2021- , Consultant of Fem organization in Kazakhstan, Femtendik
 
 Programs and Olympiads
 ======
