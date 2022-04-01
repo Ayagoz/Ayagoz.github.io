@@ -67,7 +67,7 @@ Volunteer
 ======
 2016-2017, Math teaching in orphanages [Tutor Outreach](https://hum.hse.ru/news/146283933.html)
 
-2021- , Consultant of Fem organization in Kazakhstan, Femtendik
+2021-now, Consultant of Fem organization in Kazakhstan, Femtendik
 
 Programs and Olympiads
 ======
@@ -77,8 +77,8 @@ Programs and Olympiads
 
 Service and leadership
 ======
-* Organizing student community events at the [IITP RAS]{http://iitp.ru/ru/about}
-* Organization of non-formal program at Conference [ITaS]{http://itas2019.iitp.ru/} 2017-2019
+* Organizing student community events at the [IITP RAS](http://iitp.ru/ru/about)
+* Organization of non-formal program at Conference [ITaS](http://itas2019.iitp.ru/) 2017-2019
 
 
 Interests
