@@ -1,0 +1,15 @@
+---
+layout: archive
+permalink: /blog/
+title: "Blog"
+author_profile: true
+---
+
+Welcome to my blog! Here you'll find posts about deep learning, neuroscience, and more.
+
+{% include base_path %}
+{% capture written_year %}'None'{% endcapture %}
+{% for post in site.posts %}
+  {% if forloop.first %}<h2 class="archive__subtitle">Recent Posts</h2>{% endif %}
+  {% include archive-single.html %}
+{% endfor %} 
